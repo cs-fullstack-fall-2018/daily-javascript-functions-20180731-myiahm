@@ -9,3 +9,4 @@ B. ```define myFunction() { }```
 C. ```function myFunction() { }```
 
 D. ```define myFunction { return value; }```
+ANSWER:C
